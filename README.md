@@ -31,7 +31,7 @@ FollowUp is a clinician friendly follow-up dashboard that helps reception and ca
 # HOW TO RUN THIS PROGRAM
 
 ## Step One
-- Download the HTML file
+- Download the index.html file
 - Download the assets folder
 
 ## Step Two
