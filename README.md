@@ -17,7 +17,7 @@
 
 ## Project Summary
 
-FollowUp is a clinician friendly follow-up dashboard that helps reception and care teams manage one-time and periodic patient follow-ups, prioritize urgent cases, and reduce administrative burden with a clean, synthetic-data workflow. Insstead of doctors wasting time sending out follow-up messages, they can automatically send out the message to the patients to save time.
+FollowUp is a clinician friendly follow-up dashboard that helps reception and care teams manage one-time and periodic patient follow-ups, prioritize urgent cases, and reduce administrative burden with a clean, synthetic-data workflow. Instead of doctors wasting time sending out follow-up messages, they can automatically send out the message to the patients to save time.
 
 ## Project Features
 - Dashboard: Displays One-time and Periodic follow-ups
