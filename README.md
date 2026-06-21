@@ -32,8 +32,17 @@ FollowUp is a clinician friendly follow-up dashboard that helps reception and ca
 
 ## Step One
 - Download the HTML file
-- Download the assets file
-- Download the Logo
+- Download the assets folder
 
 ## Step Two
 - Double click the HTML file into your browser
+
+## Step Three
+- Make sure the DIR looks like this:
+
+├─── Main
+      └─── assets
+             └─── LOGO.svg
+      └─── FollowUp.html
+
+
