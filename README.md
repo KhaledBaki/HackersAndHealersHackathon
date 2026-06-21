@@ -1,19 +1,19 @@
 # Hackers and Healers Hackathon
 
 ## Colaborators
-Khaled Abdul-Baki
-Sarah Abdul-Baki
-Sofia Henawi
-Alfea Dagdagan
+- Khaled Abdul-Baki
+- Sarah Abdul-Baki
+- Sofia Henawi
+- Alfea Dagdagan
 
 ## Event Contributers
-AGI Ventures Canada
-Invest Ottawa
-​L-SPARK
-​Telus
-​Cliniconex
-​Tali AI
-​Compounded
+- AGI Ventures Canada
+- Invest Ottawa
+​- L-SPARK
+​- Telus
+​- Cliniconex
+​- Tali AI
+​- Compounded
 
 ## Project Summary
 
