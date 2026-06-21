@@ -40,9 +40,9 @@ FollowUp is a clinician friendly follow-up dashboard that helps reception and ca
 ## Step Three
 - Make sure the DIR looks like this:
 
-├─── Main
-      └─── assets
-             └─── LOGO.svg
-      └─── FollowUp.html
+Main/
+├── assets/
+│   └── LOGO.svg
+└── FollowUp.html
 
 
